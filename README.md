@@ -143,8 +143,8 @@ University-focused collaboration platform designed to improve communication, eng
 
 ## 📫 Let's Connect
 
-💼 LinkedIn:
-[www.linkedin.com/in/hansini-samarathunga-091453270](http://www.linkedin.com/in/hansini-samarathunga-091453270)
+💼 LinkedIn: 
+[Hansini Samarathunga](https://www.linkedin.com/in/hansinisamarathunga)
 
 📧 Email:
 [hansinisamarathunga65@gmail.com](mailto:hansinisamarathunga65@gmail.com)
