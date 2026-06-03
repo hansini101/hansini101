@@ -1,9 +1,13 @@
 # Hi, I'm Hansini 👋
 
 🎓 **Final-Year BSc (Hons) Computer Science Undergraduate** at **NSBM Green University**
+
 📊 **Aspiring Business Analyst | Product Analyst | Future Product Manager**
+
 💡 Passionate about solving real-world problems through technology, product thinking, and user-centered solutions.
+
 🚀 Experienced in AI, Healthcare Systems, IoT Applications, Mobile App Development, and Web-Based Solutions.
+
 📍 Sri Lanka
 
 ---
@@ -68,6 +72,7 @@ I am currently seeking internship opportunities in:
 AI-powered emotion recognition and mental wellness support platform using Deep Learning, Computer Vision, React, Django, TensorFlow, and OpenCV.
 
 **My Contributions:**
+
 * Product planning and feature definition
 * Frontend development
 * User-focused design improvements
@@ -80,6 +85,7 @@ AI-powered emotion recognition and mental wellness support platform using Deep L
 Smart flood disaster monitoring and early warning system using sensors, GSM communication, and mobile alerts.
 
 **My Contributions:**
+
 * Mobile application development using Flutter
 * UI/UX design
 * System workflow design
@@ -92,6 +98,7 @@ Smart flood disaster monitoring and early warning system using sensors, GSM comm
 Web-based healthcare management platform designed to improve patient data accessibility and healthcare workflows.
 
 **My Contributions:**
+
 * Frontend development with Next.js
 * Requirement analysis
 * Documentation
@@ -104,6 +111,7 @@ Web-based healthcare management platform designed to improve patient data access
 University-focused collaboration platform designed to improve communication, engagement, and resource sharing among students.
 
 **My Contributions:**
+
 * Requirement gathering
 * UI/UX design support
 * Feature planning
