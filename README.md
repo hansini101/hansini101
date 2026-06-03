@@ -1,92 +1,118 @@
 # Hi, I’m Hansini 👋  
 
-🎓 **Computer Science Undergraduate** at **NSBM Green University**  
-🔍 Aspiring **Quality Assurance / Business Analyst Intern**  
-📱 Background in **Flutter Development & UI/UX Design**
+🎓 Final-Year BSc (Hons) Computer Science Undergraduate at NSBM Green University. 
+📊 Aspiring Business Analyst | Product Analyst | Future Product Manager. 
+💡 Passionate about solving real-world problems through technology, product thinking, and user-centered solutions.
+🚀 Experienced in AI, Healthcare Systems, IoT Applications, Mobile App Development, and Web-Based Solutions.
+📍 Sri Lanka.
 
 ---
 
 ## 🌟 About Me
 
-I’m a motivated Computer Science undergraduate with a strong interest in **software quality, system analysis, and user-centered solutions**.  
-I enjoy working with real-world systems, understanding requirements, identifying issues, and improving usability through testing and analysis.
+I am a final-year Computer Science undergraduate with a growing interest in Business Analysis, Product Management, and Digital Solutions.
 
-My academic projects have helped me build skills in:
-- Software testing and validation  
-- Requirement understanding and documentation  
-- UI/UX evaluation and user-focused design  
-- Team collaboration using Agile practices  
+My academic and project experience has helped me develop skills in requirement analysis, product development, stakeholder-focused thinking, system design, and software documentation. I enjoy understanding user needs, identifying business problems, and working with teams to create effective technology solutions.
 
-I’m currently seeking **QA / BA internship opportunities** where I can learn, contribute, and grow professionally.
+Through projects in AI, Healthcare, IoT, and Mobile Applications, I have gained experience in analyzing requirements, designing solutions, collaborating within Agile teams, and transforming ideas into functional products.
+
+I am currently seeking internship opportunities in:
+-Business Analysis
+-Product Analysis
+-Product Management
+-Digital Transformation
+-Technology Consulting
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Technical Skills
-- Software Testing (Manual Testing basics)
-- Requirement Analysis
-- UI/UX Evaluation
-- Mobile & Web Application Understanding
+##📊 Business & Product
+-Requirement Gathering
+-User Story Creation
+-Process Analysis
+-Stakeholder Communication
+-Product Documentation
+-Agile Methodologies
+-System Analysis & Design
 
-### 🧰 Technologies
-- Dart & Flutter  
-- JavaScript, TypeScript  
-- HTML, CSS  
-- C++  
+##💻 Technical Skills
+-Python
+-Java
+-JavaScript
+-TypeScript
+-Flutter
+-React
+-Next.js
+-Django
+-Firebase
+-SQL
 
-### 🛠 Tools & Platforms
-- Git & GitHub  
-- Figma (UI/UX Design)  
-- Firebase  
-- VS Code  
-
-### 📌 Concepts
-- SDLC & Agile Methodology  
-- Test Case Writing (basic)  
-- Usability & Functional Testing  
-- System Design Fundamentals  
+##🎨 Design & Collaboration
+-Figma
+-UI/UX Design
+-Wireframing
+-Prototyping
+-Git & GitHub
 
 ---
 
 ## 📌 Featured Projects
 
-🐾 **PetPals – Flutter Mobile App**  
-🔗 https://github.com/hansini101/petpals  
-- Pet care mobile application built using Flutter  
-- Focused on clean UI, navigation flow, and usability  
+🧠 EmoSense – AI Emotion Recognition Platform
 
-🌊 **Flood Sense – IoT Flood Monitoring System**  
-🔗 https://github.com/nadeelifthi2003/Flood-Sense  
-- IoT-based disaster monitoring system  
-- Gained experience in system logic, sensor integration, and real-time alerts  
+AI-powered emotion recognition and mental wellness support platform using Deep Learning, Computer Vision, React, Django, TensorFlow, and OpenCV.
+My Contributions:
+Product planning and feature definition
+Frontend development
+User-focused design improvements
+Documentation and project coordination
 
-🏥 **DocuHealth – Patient Record Management System**  
-🔗 https://github.com/nminekshi/docuHealth-Project  
-- Web-based healthcare system  
-- Worked with data handling, workflows, and system structure  
+🌊 Flood Sense – IoT Flood Monitoring System
 
-🌐 **AQL Web Application**  
-🔗 https://github.com/nadeelifthi2003/AQL_web  
-- Web project focused on structure and content presentation  
+Smart flood disaster monitoring and early warning system using sensors, GSM communication, and mobile alerts.
+My Contributions:
+Mobile application development using Flutter
+UI/UX design
+System workflow design
+Project documentation
 
-> These projects strengthened my understanding of **software behavior, system quality, and user experience**.
+🏥 DocuHealth – Patient Record Management System
+
+Web-based healthcare management platform designed to improve patient data accessibility and healthcare workflows.
+My Contributions:
+Frontend development with Next.js
+Requirement analysis
+Documentation
+UI design and implementation
+
+🎓 UniBridge – Student Collaboration Platform
+
+University-focused collaboration platform designed to improve communication, engagement, and resource sharing among students.
+My Contributions:
+Requirement gathering
+UI/UX design support
+Feature planning
+System analysis
 
 ---
 
-## 📊 GitHub Activity
-
-![Hansini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansini101&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hansini101&layout=compact&theme=tokyonight)
-
----
+##📈 Currently Learning
+-SQL for Business Analysis
+-Agile & Scrum Practices
+-Product Management Fundamentals
+-Data Analytics
+-Power BI
+-Business Process Modeling
 
 ## 🎯 Career Interests
 
-- Quality Assurance (Manual QA)  
-- Business Analysis  
-- Software Testing & Documentation  
-- User Experience Evaluation  
+-Business Analysis
+-Product Analysis
+-Product Management
+-Digital Transformation
+-Technology Consulting
+-Product Strategy
 
 ---
 
@@ -95,6 +121,10 @@ I’m currently seeking **QA / BA internship opportunities** where I can learn, 
 💼 **LinkedIn:** *(www.linkedin.com/in/hansini-samarathunga-091453270)*  
 📧 **Email:** hansinisamarathunga65@gmail.com  
 🌍 **Location:** Sri Lanka  
+
+---
+
+✨ Turning ideas into impactful digital solutions through technology, analysis, and product thinking.
 
 ---
 
